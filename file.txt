@@ -1,3 +1,0 @@
-this is a demo file code creted for test
-2nd time the code has been modified after pulling back from staging area
-3rd time iam editing this code as a new sprint
